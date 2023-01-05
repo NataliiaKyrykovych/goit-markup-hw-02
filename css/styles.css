@@ -28,6 +28,7 @@ font-family: 'Roboto', 'Verdana', 'Tahoma', sans-serif;
     /* NAVY BLUE */
     color:var(--primary-text-color);
     text-decoration: none;
+    
 }
 .accent {
     /* IRIS */
@@ -69,6 +70,7 @@ font-family: 'Roboto', 'Verdana', 'Tahoma', sans-serif;
 
 .text-footer {
     color: #E7E9FC;
+    background: #2E2F42;
 }
 /* ==============/Components================ */
 
@@ -76,7 +78,12 @@ font-family: 'Roboto', 'Verdana', 'Tahoma', sans-serif;
 
 
 /* ==================Hero=================== */
-
+.list-our-team{
+    background: #F4F4FD;
+}
+.hero{
+    background:var(--primary-text-color);
+}
 .modal-btn {
     font-weight: 500;
     font-size: 16px;
@@ -138,3 +145,8 @@ font-family: 'Roboto', 'Verdana', 'Tahoma', sans-serif;
     color:var(--accent-color);
 }
 /* ================/Hero==================== */
+
+/* ==============Footer===================== */
+.logo-footer{
+    background: #2E2F42;
+}
