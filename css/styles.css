@@ -85,6 +85,7 @@ font-family: 'Roboto', 'Verdana', 'Tahoma', sans-serif;
     background:var(--primary-text-color);
 }
 .modal-btn {
+    font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -117,7 +118,7 @@ font-family: 'Roboto', 'Verdana', 'Tahoma', sans-serif;
     line-height: 1.07;
     /* text-align: center; */
     letter-spacing: var(--letter-spacing);
-    /* color: #FFFFFF; */
+    color: #FFFFFF;
 }
 .title{
     font-weight: 700;
