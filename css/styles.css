@@ -48,6 +48,7 @@ font-family: 'Roboto', 'Verdana', 'Tahoma', sans-serif;
     color: var(--accent-color);
 }
 .contact-mail {
+    font-style: normal;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: var(--letter-spacing);
@@ -61,17 +62,22 @@ font-family: 'Roboto', 'Verdana', 'Tahoma', sans-serif;
     color: var(--background-color);
 }
 .phone-number {
+    font-style: normal;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: var(--letter-spacing);
     /* SLATE */
     color:var(--accent-color);
 }
-
-.text-footer {
-    color: #E7E9FC;
+.footer{
     background: #2E2F42;
 }
+.text-footer {
+    font-size: 16px;
+    line-height: 1.5;
+    /* CORNFLOWER */
+    color: #E7E9FC;
+    }
 /* ==============/Components================ */
 
 
